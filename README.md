@@ -20,7 +20,7 @@
 
 ## 💻 Projeto
 
-Super trilha de 114 horas, o primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot;
+Super trilha de 114 horas, o primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java, Spring Boot e outras tecnologias;
 
 <br>
 
