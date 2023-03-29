@@ -8,15 +8,21 @@
   <img width="450px" src="https://hermes.digitalinnovation.one/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png">
 </h2>
 
+<br>
+
 <p align="center">
   <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
+<br>
+
 
 ## 💻 Projeto
 
 Super trilha de 114 horas, o primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot;
+
+<br>
 
 ## 🚀 Tecnologias
 
@@ -33,6 +39,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <img align="center" alt="Lucarauj-SpringSecurity" height="60" width="100" src="https://github.com/lucarauj/assets/blob/main/SpringSecurity.png">
 <img align="center" alt="Lucarauj-AmazonRds" height="60" width="100" src="https://github.com/lucarauj/assets/blob/main/AmazonRds.png">
 </div>
+
+<br>
 
 ## ⚔ Lista dos Desafios
 
@@ -60,6 +68,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Exibindo Números Pares [Ver aqui](./fundamentosAritmeticosEmJava/ExibindoNumerosPares.java)
 - Quantidade De Números Positivos [Ver aqui](./fundamentosAritmeticosEmJava/QuantidadeDeNumerosPositivos.java)
 
+<br>
 
 # Aluno
 
